@@ -1,0 +1,5 @@
+#inlclude<iostream.h>
+void main()
+{
+cout<<"hello wolrd!!";
+}
